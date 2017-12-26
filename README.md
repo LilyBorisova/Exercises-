@@ -1,2 +1,4 @@
 # Exercises-
-Hello :(
+
+Hello :)
+Resolved Conflict
