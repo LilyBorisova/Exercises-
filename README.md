@@ -1,2 +1,5 @@
 # Exercises-
-Hello GitBash (:
+
+
+
+hi all. this is a deliberately made conflict 
