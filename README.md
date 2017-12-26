@@ -1,4 +1,4 @@
 # Exercises-
 
 Hello :)
-Resolved Conflict
+Hi from Master!
