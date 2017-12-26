@@ -1,4 +1,2 @@
 # Exercises-
-
-Hello :)
-Resolved Conflict
+new branch 
