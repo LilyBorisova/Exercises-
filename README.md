@@ -1,4 +1,3 @@
 # Exercises-
-
-Hello :)
-Hi from Master!
+Almost done 
+merged branches
